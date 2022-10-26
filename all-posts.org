@@ -4,9 +4,9 @@
 #+hugo_custom_front_matter: :author "长问长青"
 #+STARTUP: logdrawer
 
-* Blog
+* Blog Ideas
 
-** DONE 虎码 - 性能与手感的形码输入法                                :输入法:
+** DONE 虎码 - 性能与手感兼备的形码输入法                            :输入法:
 SCHEDULED: <2022-10-25 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: 虎码
@@ -30,3 +30,9 @@ SCHEDULED: <2022-10-25 Tue>
 :END:
 
 https://github.com/AmazingRise/hugo-theme-diary
+** TODO 焰
+:PROPERTIES:
+:EXPORT_FILE_NAME: 焰
+:END:
+
+C 火 X ⺈
