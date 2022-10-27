@@ -16,8 +16,7 @@ SCHEDULED: <2022-10-25 Tue>
 :END:
 - 小鹤双拼三年用户转
 *** 官网 
-[[https://tiger-code.com/][官网]] [[https://kylebing.cn/tools/typepad/
-][玫枫跟打器]]
+[[https://tiger-code.com/][官网]] [[https://kylebing.cn/tools/typepad/][玫枫跟打器]]
 *** 优点
 - 官网自带在线字根跟打，新人可以很快开始练习
 - 大字根，拆分直观，符合直觉 
@@ -30,9 +29,3 @@ SCHEDULED: <2022-10-25 Tue>
 :END:
 
 https://github.com/AmazingRise/hugo-theme-diary
-** TODO 焰
-:PROPERTIES:
-:EXPORT_FILE_NAME: 焰
-:END:
-
-C 火 X ⺈
