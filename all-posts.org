@@ -23,9 +23,45 @@ SCHEDULED: <2022-10-25 Tue>
 - 可打大字集，支持UTF-8全集，9W+字（正常人用不到）
 *** 字根
 
-** TODO 本站主题
+** DONE 本站主题
+SCHEDULED: <2022-10-26 Wed>
 :PROPERTIES:
 :EXPORT_FILE_NAME: 本站主题
 :END:
 
 https://github.com/AmazingRise/hugo-theme-diary
+
+** DONE Win11安装wsl的坑
+SCHEDULED: <2022-10-29 Sat 17:00>
+:PROPERTIES:
+:EXPORT_FILE_NAME: win11安装wsl的坑
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"    [2022-10-29 Sat 17:54]
+:END:
+
+*** 安装Debian
+#+begin_src powershell
+  wsl --install --distribution Debian
+#+end_src
+
+*** 显示报错0x800701bc
+**** 问题的原因
+WSL版本由原来的WSL1升级到WSL2后，内核没有升级
+**** 解决方案
+[[https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi][官方下载连接]]
+
+
+** DONE Docker 
+ SCHEDULED: <2022-10-29 Sat 23:10>
+:PROPERTIES:
+:EXPORT_FILE_NAME: Docker
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"    [2022-10-29 Sat 23:16]
+:END:
+
+从Docker复制文件出来
+#+begin_src
+  docker cp 容器名:容器中的路径 要拷贝到宿主的路径
+#+end_src
